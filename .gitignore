@@ -1,0 +1,19 @@
+# ignore everything
+*
+# except these files
+!autoexec.cfg
+!binds.cfg
+!clear.cfg
+!demoman.cfg
+!engineer.cfg
+!heavyweapons.cfg
+!medic.cfg
+!pyro.cfg
+!scout.cfg
+!sniper.cfg
+!soldier.cfg
+!spy.cfg
+
+# don't ignore git files, dumb-o
+!.gitignore
+!.gitattributes
